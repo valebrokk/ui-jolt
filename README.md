@@ -27,3 +27,4 @@ queue.add('send-email', { to: 'user@example.com' });
 ## License
 
 MIT
+
